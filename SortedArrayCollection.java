@@ -14,7 +14,7 @@
 // original capacity. The collection is unbounded.
 //----------------------------------------------------------------------------
 
-//Josh Urbach Updated
+//************Josh Urbach Updated*******************
 //#26 a-d
 //Added 4 methods to be tested based off authors collection code
 
